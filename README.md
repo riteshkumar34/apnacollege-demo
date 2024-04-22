@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - Ritesh Kumar
+Author - Ritesh Kumar(Delhi technical Campus)
+
